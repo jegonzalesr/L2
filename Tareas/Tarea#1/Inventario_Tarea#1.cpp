@@ -44,7 +44,7 @@ void ingresoDeInventario() {
 
     system("cls");
     cout << endl;
-    cout << "Ingreso de Productos al Inventario" << endl;
+    cout << "Ingreso de Productos al Inventario _TEST" << endl;
     cout << "**********************************" << endl;
     cout << "Ingrese el codigo del producto: ";
     cin >> codigo;
