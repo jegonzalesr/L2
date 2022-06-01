@@ -1,0 +1,47 @@
+Flujo de un programa
+
+Entrada de datos ---- proceso ----- salida
+
+un punto ded entrada
+
+  Y en C++ el punto de entrada es la funcion main
+  
+  	Ctrl=/  Comenta todo el codigo
+  	
+  	
+  Expresiones logicas=====!
+  
+  Siempre es algo que vamos a comparar, siempre comparamos 2 valores utilizando los operadores de comparacion.
+  
+  Que son 
+  
+  ==
+  >
+  <
+  !=
+  >=
+  <=
+  
+  la expresion logica devolvera si o no!!! o true o false.!!!
+  
+  
+  Se pone dentro de una condicion IF.
+  
+  
+ Operadores Logicos
+ 
+ && es igual a y
+ || es igual a O
+ 
+ 
+ 
+ En caso del si si uno falla todo es falso
+ 
+ en el O si uno cumple todo es valido
+ 
+ 
+ bool valor de una expresion logica.
+ 
+ 
+  
+  
